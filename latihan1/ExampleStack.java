@@ -1,4 +1,3 @@
-package latihan1;
 import java.util.Stack;
 
 public class ExampleStack {
