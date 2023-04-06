@@ -1,10 +1,3 @@
-package latihan11;
-
-/**
- *
- * @author VALENCIA SEFIANA
- */
-
 public class Stack {
     private int maxSize;
     private String[] stackArray;
